@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Deep and cheap fakes: effects on audience’s attitudes, knowledges, and literacy
 
-You can use the [editor on GitHub](https://github.com/sanjaysaha1311/df.ctic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+NUS **Centre for Trusted Internet and Community** (CTIC) Collaborative Project
 
 ### Markdown
 
